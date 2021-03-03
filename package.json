@@ -20,6 +20,6 @@
     "express-validator": "*",
     "moment": "^2.24.0",
     "mongoose": "*",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   }
 }
