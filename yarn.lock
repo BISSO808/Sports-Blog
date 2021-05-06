@@ -430,9 +430,9 @@ is-regex@^1.0.3:
     has "^1.0.1"
 
 jpv@^2.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/jpv/-/jpv-2.0.1.tgz#522b546a14963268f756412f88db46beadc68a23"
-  integrity sha512-kdcJdDtHdd75zqTD55ZIjexdaRzaoeAJExAXujowbI06OtA1uOyw51oRLkF2GMPyEr9jbunG7ToM2rdTToAdFg==
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/jpv/-/jpv-2.2.2.tgz#05551d1d7372215d771d5bf6a609c16cf992248f"
+  integrity sha512-NCIiqygbMr2gahm5yaRcrUv4BE6MAw2DBTwF5b8WK+Fr9O5XTqCsyTuOZ5QLT85f6yIGAOk09OjHn1jV0ZjVoQ==
 
 js-stringify@^1.0.1:
   version "1.0.2"
