@@ -18,7 +18,7 @@
     "express-messages": "^1.0.1",
     "express-session": "*",
     "express-validator": "*",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "*",
     "pug": "^2.0.3"
   }
